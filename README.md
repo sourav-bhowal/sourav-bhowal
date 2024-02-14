@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Bhowal</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="500" src="https://github.com/sourav-bhowal/sourav-bhowal/blob/main/standard.gif">
+<img align="right" alt="coding" width="450" src="https://github.com/sourav-bhowal/sourav-bhowal/blob/main/standard.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav-bhowal&label=Profile%20views&color=0e75b6&style=flat" alt="sourav-bhowal" /> </p>
 
