@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/souravbhowal14" target="blank"><img src="https://img.shields.io/twitter/follow/souravbhowal14?logo=twitter&style=for-the-badge" alt="souravbhowal14" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN Stack, Python**
 
 - 📫 How to reach me **souravbhowal14@gmail.com**
 
