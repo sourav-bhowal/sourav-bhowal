@@ -48,7 +48,5 @@
 <a href="https://github.com/sourav-bhowal">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourav-bhowal&theme=chartreuse_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourav-bhowal&theme=chartreuse_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourav-bhowal&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sourav-bhowal&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-bhowal&theme=2077" height="180em" />
 </div>
