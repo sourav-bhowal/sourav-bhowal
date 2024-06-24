@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Realstro**
 - 🌱 I’m currently learning **NextJs, Blender**
-- 💬 Ask me about **React, Js, Express**
+- 💬 Ask me about **MERN, NEXTJS**
 - 📫 How to reach me **souravbhowal14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
