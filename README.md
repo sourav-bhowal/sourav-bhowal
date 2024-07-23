@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav-bhowal&theme=dark_lover" alt="sourav-bhowal" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Realstro**
-- 🌱 I’m currently learning **NextJs, Blender**
-- 💬 Ask me about **MERN, NEXTJS**
+- 👯 I’m looking to collaborate on **Any Nextjs or React Project**
+- 🌱 I’m currently learning **NextJs, Blender, DevOps**
+- 💬 Ask me about **MERN STACK, NEXTJS**
 - 📫 How to reach me **souravbhowal14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
