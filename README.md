@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav-bhowal&theme=dark_lover" alt="sourav-bhowal" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on **JobNestAI**<br>🤝 I’m looking to collaborate on **AlumSphere** <br>🌱 I’m currently learning **DevOps & Web3** <br>💬 Ask me about **Mern Stack**, **NextJs**, **DevOps**
+🔭 I’m currently working on **JobFlowAI**<br>🤝 I’m looking to collaborate on **AlumSphere** <br>🌱 I’m currently learning **DevOps & Web3** <br>💬 Ask me about **Mern Stack**, **NextJs**, **DevOps**
 
 
 # 🌐 Socials:
