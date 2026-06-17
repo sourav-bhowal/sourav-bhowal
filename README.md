@@ -6,7 +6,19 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav-bhowal&theme=dark_lover" alt="sourav-bhowal" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on **JobFlowAI**<br>🤝 I’m looking to collaborate on **AlumSphere** <br>🌱 I’m currently learning **DevOps & Web3** <br>💬 Ask me about **Mern Stack**, **NextJs**, **DevOps**
+I'm a Software Engineer specializing in Full Stack Development, GenAI, Backend Engineering, and Cloud Infrastructure. I enjoy building scalable applications, distributed systems, AI-powered platforms, and developer tools.
+
+My interests include:
+• Backend Architecture & Distributed Systems
+• AI/LLM Applications & Automation
+• Cloud Computing & DevOps
+• Event-Driven Systems & Microservices
+• Performance Optimization & Scalability
+
+Tech Stack:
+TypeScript • Next.js • React • Node.js • Python • PostgreSQL • MongoDB • Redis • RabbitMQ • Docker • AWS • Kubernetes
+
+Currently exploring gRPC, OpenTelemetry, distributed systems design, and production-grade platform engineering.
 
 
 # 🌐 Socials:
