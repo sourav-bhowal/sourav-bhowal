@@ -63,9 +63,7 @@
 <ul>
   <li>gRPC & High-Performance Service Communication</li>
   <li>Advanced Distributed Systems</li>
-  <li>Kubernetes at Scale</li>
-  <li>OpenTelemetry & Observability</li>
-  <li>Platform Engineering</li>
+  <li>Agentic AI</li>
   <li>Large-Scale System Design</li>
 </ul>
 
