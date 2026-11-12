@@ -3,9 +3,6 @@
   distributed systems, AI-powered platforms, and cloud-native infrastructure.
   I enjoy solving complex engineering challenges and turning ideas into
   production-ready products.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav-bhowal&label=Profile%20views&color=0e75b6&style=flat" alt="sourav-bhowal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav-bhowal&theme=dark_lover" alt="sourav-bhowal" /></a> </p>
 
 # 💫 About Me:
 <ul>
